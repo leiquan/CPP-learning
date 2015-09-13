@@ -1,0 +1,30 @@
+//
+//  main.cpp
+//  code32-dongtaineicun
+//
+//  Created by leiquan on 15/9/14.
+//  Copyright (c) 2015年 leiquan.me. All rights reserved.
+//
+
+#include <iostream>
+using namespace std;
+
+class Box
+{
+public:
+    Box() {
+        cout << "调用构造函数！" <<endl;
+    }
+    ~Box() {
+        cout << "调用析构函数！" <<endl;
+    }
+};
+
+int main( )
+{
+    Box* myBoxArray = new Box[4];
+    
+    delete [] myBoxArray; // Delete array
+    
+    return 0;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61D24FB3-7BC6-4A90-A11B-850CC7052206</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAF55074B8C1D600A3B5C08D05CEA9647F11546B</key>
+		<string>github.com:leiquan/CPP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code19-time/code19-time.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAF55074B8C1D600A3B5C08D05CEA9647F11546B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:leiquan/CPP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAF55074B8C1D600A3B5C08D05CEA9647F11546B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAF55074B8C1D600A3B5C08D05CEA9647F11546B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
